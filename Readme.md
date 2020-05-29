@@ -4,7 +4,7 @@ Scriptleri çalıştırmak için yapmanız gereken aegisub'un kurulu olduğu kla
 
 Kısacası include klasörü görürseniz include klasörüne atınız. Eğer klasör yoksa direk autoload içine atınız.
 
-www.animewho.com / www.animehaber.com / manga.animewho.com / https://discord.com/invite/kXkg3pY
+www.animewho.com / www.animehaber.com / https://discord.com/invite/kXkg3pY
 Adreslerinden bana ulaşabilirsiniz aklınıza takılan tüm soruları seve seve yanıtlarım.
 
 -Bazı Scriptlerin Ne İşe Yaradığına Dair Kısa Bilgiler-
