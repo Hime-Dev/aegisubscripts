@@ -1,5 +1,8 @@
 Bu aegisub script paketi bir çok yerden toplanmıştır. Hepsi bana ait değildir fakat içlerinden en kullanışlı işe yarar scriptleri seçmeye çalıştım.
-Scriptleri çalıştırmak için yapmanız gereken aegisub'un kurulu olduğu klasöre gidip automation klasörünün içindeki autload klasörüne script dosyalarını atmaktır. Automation'nun içine atmamanız gereken script dosyalarını ayrı klasör olarak belirttim. Kısacası include klasörü görürseniz include klasörüne atınız. Eğer klasör yoksa direk autoload içine atınız.
+
+Scriptleri çalıştırmak için yapmanız gereken aegisub'un kurulu olduğu klasöre gidip automation klasörünün içindeki autload klasörüne script dosyalarını atmaktır. Automation'nun içine atmamanız gereken script dosyalarını ayrı klasör olarak belirttim.
+
+Kısacası include klasörü görürseniz include klasörüne atınız. Eğer klasör yoksa direk autoload içine atınız.
 
 www.animewho.com / www.animehaber.com / manga.animewho.com / https://discord.com/invite/kXkg3pY
 Adreslerinden bana ulaşabilirsiniz aklınıza takılan tüm soruları seve seve yanıtlarım.
