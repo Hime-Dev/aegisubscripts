@@ -7,6 +7,8 @@ Kısacası include klasörü görürseniz include klasörüne atınız. Eğer kl
 www.animewho.com / www.animehaber.com / manga.animewho.com / https://discord.com/invite/kXkg3pY
 Adreslerinden bana ulaşabilirsiniz aklınıza takılan tüm soruları seve seve yanıtlarım.
 
+-Bazı Scriptlerin Ne İşe Yaradığına Dair Kısa Bilgiler-
+
 Script Cleanup: v5.0 - removes or hides unwanted stuff from selected lines, fixes some things
 Blur and Glow: v2.5 - creates layers with blur and/or glow
 HYDRA: v6.0 - adds tags, does transforms, gradients, plus a bunch of special functions
