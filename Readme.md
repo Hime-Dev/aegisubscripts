@@ -1,4 +1,4 @@
-Bu aegisub script paketi bir çok yerden toplanmıştır. Hepsi bana ait değildir fakat içlerinden en kullanışlı işe yarar scriptleri seçmeye çalıştım.
+Bu aegisub script paketi bir çok yerden toplanmıştır. Çoğu bana ait değildir fakat içlerinden en kullanışlı işe yarar scriptleri seçmeye çalıştım.
 
 Scriptleri çalıştırmak için yapmanız gereken aegisub'un kurulu olduğu klasöre gidip automation klasörünün içindeki autload klasörüne script dosyalarını atmaktır. Automation'nun içine atmamanız gereken script dosyalarını ayrı klasör olarak belirttim.
 
